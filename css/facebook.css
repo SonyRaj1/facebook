@@ -1,0 +1,173 @@
+body {
+    background: #e0e4ee;
+    margin: 0;
+    padding: 0;
+}
+.header {
+   background: #405D98;
+   height: 80px;
+   width: 100%;
+}
+.header-left {
+    font-size: 40px;
+    position: absolute;
+    top: 3%;
+    left: 180px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-right-email{ 
+     position: absolute;
+     right: 490px;
+     top: 12px;
+     font-size: 12px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: #fff;
+}
+.header-right-pass {
+    position: absolute;
+    right: 360px;
+    top: 12px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff
+}
+.header-right {
+    position: absolute;
+    right: 90px;
+    top: 36px;
+}
+.header-right-input-email {
+    width: 150px;
+    height: 25px;
+    border: .5px solid black;
+}
+.header-right-input-password {
+    width: 150px;
+    height: 25px;
+    border: .5px solid black;
+    margin-left:5px;
+}
+.header-right-input-submit {
+    height: 25px;
+    background: #21b5bc;
+    color: #ffff;
+    border: none;
+    cursor: pointer;
+}
+.header-right-input-submit:hover {
+    height: 25px;
+    background: #3a5b9b;
+    color: #ffff;
+    border: none;
+    cursor: pointer;
+}
+.Forgotten {
+    columns: #605c9c;
+    text-decoration: none;
+    position: relative;
+    top: 22px;
+    left: -210px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+.Forgotten:hover {
+    text-decoration: underline;
+   
+}
+
+    
+}
+.span-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #373737;
+    font-size: 40px;
+}
+.span-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #373737;
+    font-size: 20px;
+}
+.input-first {
+    height: 30px;
+    width: 180px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+.input-email {
+    height: 30px;
+    width: 360px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.input-password {
+    height: 30px;
+    width: 360px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+.Birthday {
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #373737;
+}
+select {
+    height: 30px;
+    width: 55px;
+    padding: 6px;
+}
+.sin {
+    height: 36px;
+    width: 120px;
+    color: #fff;
+    background: #609421;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.sin:hover {
+    height: 36px;
+    width: 120px;
+    color: #fff;
+    background: #78b763;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.left {
+    width: 55%;
+    position: absolute;
+    top: 8%;
+    left: 12%;
+}
+.body-left {
+    font-size: 20px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #133c62;
+
+}
+img {
+    margin: 90px 0px 0px 150px;
+    width: 200px;
+    align-items: center;
+    background-color: #f5f6f7;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    display: flex;
+    height: 160px;
+    justify-content: center;
+    width: 160px;
+    font-family: inherit;
+}
+.right {
+    width: 45%;
+    position: absolute;
+    top: 16%;
+    left: 56%;
+}
